@@ -1,4 +1,4 @@
-package iu_datamodels
+package iu_datamodels_go
 
 import (
 	"gorm.io/gorm"
