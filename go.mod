@@ -1,4 +1,4 @@
-module github.com/halone228/iu_datamodels_go
+module github.com/Halone228/iu_datamodels_go
 
 go 1.22.3
 
